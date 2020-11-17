@@ -21,8 +21,8 @@ Alien Invasion одна из аркадных игр.
 * Q - выход
 
 # ✨Клонирование
-$ https://github.com/LARSTANK/ALIEN-INVASION.git
-$ cd PycharmProjects
+* https://github.com/LARSTANK/ALIEN-INVASION.git
+* cd PycharmProjects
 
 # 🏁Начать
 $ alien_invasion_game.py
